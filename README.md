@@ -2,7 +2,7 @@
 Spark optimization technique to learn
 
 This project contains all the optimization technique used in spark
-1. Scanning
+1. Scanning - SparkOptiimize
 2. Optimize JOINS
 3. Spark SQL Hints
 4. Caching & Persistence
