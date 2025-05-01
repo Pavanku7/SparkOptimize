@@ -1,8 +1,8 @@
 # SparkOptimize
-Spark optimization technique to learn
+## Spark optimization technique to learn
 
 This project contains all the optimization technique used in spark
-1. Scanning
+1. [Scanning](https://github.com/Pavanku7/SparkOptimize/blob/main/SparkOptiimize/Scanning%20optimize.ipynb)
 2. Optimize JOINS
 3. Spark SQL Hints
 4. Caching & Persistence
